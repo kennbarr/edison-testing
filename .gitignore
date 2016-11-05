@@ -1,0 +1,6 @@
+node_modules
+*.un~
+*.js~
+*.json~
+.gitignore~
+*.swp
